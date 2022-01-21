@@ -1,0 +1,11 @@
+h1,
+h2, 
+p, {
+    color:"blue"
+    background-color:"white"
+}
+
+body {
+    background-image: url("free-fireworks-image-10.jpg");
+    font-display: red;
+  }
